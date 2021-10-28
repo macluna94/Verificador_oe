@@ -1,0 +1,9 @@
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\bin\Release\SmartDeviceProject4.exe
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\bin\Release\SmartDeviceProject4.pdb
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\bin\Release\System.Data.SqlClient.dll
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Release\ResolveAssemblyReference.cache
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Release\SmartDeviceProject4.Form1.resources
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Release\SmartDeviceProject4.Properties.Resources.resources
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Release\SmartDeviceProject4.csproj.GenerateResource.Cache
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Release\SmartDeviceProject4.exe
+C:\Users\manuell\OneDrive - oemoda.com\Documentos\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Release\SmartDeviceProject4.pdb
