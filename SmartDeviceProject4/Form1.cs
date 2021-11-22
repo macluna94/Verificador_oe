@@ -15,10 +15,11 @@ namespace SmartDeviceProject4
     public partial class Form1 : Form
     {
 
-        DB db = new DB("SERVER=DESKTOP-5R3S1IE\\SQLEXPRESS;DATABASE=Retail One;User Id=sa; Password=B1Admin ");
-        //DB db = new DB("SERVER=DESKTOP-TM0V60N\\SQLEXPRESS;DATABASE=Retail One;User Id=sa; Password=B1Admin ");
+        // Tesistan
+        //DB db = new DB("SERVER=DESKTOP-5R3S1IE\\SQLEXPRESS;DATABASE=Retail One;User Id=sa; Password=B1Admin ");
+        DB db = new DB("SERVER=DESKTOP-TM0V60N\\SQLEXPRESS;DATABASE=Retail One;User Id=sa; Password=B1Admin ");
  
-
+    
         String cadena = "", promociones, barras;
         String nombre, price, existencia, mayoreo;
         //, promosapl;
